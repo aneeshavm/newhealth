@@ -1,0 +1,272 @@
+*{
+    margin: 0;
+}
+.navbar1{
+    background-color: white;
+    width: 100%;
+    height: 102px;
+
+}
+.emblem{
+    width: 250px;
+    height: 102px;
+    display: flex;
+}
+h1{
+    
+    position: absolute;
+    top: 10px;
+    left: 300px;
+}
+h2{
+    position: absolute;
+    top: 50px;
+    left: 300px;
+
+}
+.navigation{
+    width: 1500px;
+    height: 70px;
+    background-color:green;
+    padding-top: 20px;
+    margin-top: 10px;
+}
+a{
+    width: 58px;
+    height: 30px;
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.btn{
+    border-radius: 5px;
+    text-align: center;
+    background-color: blue;
+    padding-left: 10px;
+    width: 70px;
+    height: 40px;
+    margin-left: 1100px;
+    margin-bottom: 10px;
+
+    
+    
+    
+}
+.image-container2{
+    width: 100%;
+    height: 243px;
+    background-color: gray;
+    display : flex;
+    }
+.image-container3{
+    display: flex;
+}
+
+
+.many-image{
+    width: 250px;
+    height: 400px;
+    float: left;
+
+}
+.img1{
+    width: 250px;
+    height: 170px;
+    float: left
+    
+    
+}
+.img2{
+    width: 250px;
+    height: 170px;
+    float: left
+    
+    
+}
+.img3{
+    width: 250px;
+    height: 170px;
+    float: left
+    
+}
+
+.img4{
+    width: 250px;
+    height: 170px;
+    float: left
+    
+    
+}
+.many-image1{
+    padding: 44px;
+}
+.kerala-photo{
+    width: 100%;
+    height: 150px;
+
+display: flex;
+}
+.photo1{
+    padding: 30px; ;
+    width: 157px;
+    height: 17px;
+    
+
+
+}
+
+.photo2{
+    padding: 20px;
+    width: 133px;
+    height: 75px;
+    
+   
+}
+.photo3{
+    padding: 25px;
+    width: 133px;
+    height: 17px;
+    
+
+}
+.photo4{
+    padding: 25px;
+    width: 133px;
+    height: 17px;
+    
+}
+.photo5{
+    padding: 20px;
+    width: 135px;
+    height: 75px;
+}
+.photo6{
+    padding: 20px;
+    width: 135px;
+    height: 75px;
+}
+
+
+.ctner{
+    width: 104%;
+    height: 100%;
+    margin: left;
+    display: flex;
+    
+}
+.fi{
+    width: 100%;
+}
+.ft1{
+    
+    width: 33PX;
+    margin-left: 130px;
+    border-right: 1px solid black;
+}
+.ft2{
+    width: 37px;
+    
+    border-right: 1px solid black;
+
+}
+.ft3{
+    width: 94px;
+    
+    border-right: 1px solid black;
+
+}
+.ft4{
+    width: 90PX;
+    
+    border-right: 1px solid black;
+}
+.ft5{
+    width: 139PX;
+    border-right: 1px solid black;
+}
+.ft6{
+    width: 103PX;
+    
+    border-right: 1px solid black;
+}
+.ft7{
+    width: 117PX;
+    border-right: 1px solid black;
+}
+.ft8{
+    width: 138PX;
+    border-right: 1px solid black;
+}
+.ft9{
+    width: 101PX;
+    border-right: 1px solid black;
+}
+.ft10{
+    width: 75PX;
+    border-right: 1px solid black;
+}
+.ft11{
+    width: 298PX;
+    border-right: 1px solid black;
+}
+.text-center1{
+    background-color: blue;
+    width: 30px;
+    height: 17px;
+    border-right: 1px solid black;
+}
+.text-center2{
+    border-right: 1px solid black;
+    width: 30px;
+    height: 17px;
+}
+.text-center3{
+    border-right: 1px solid black;
+    width: 70px;
+    height: 17px;
+}
+.text-center4{
+    border-right: 1px solid black;
+    width: 88px;
+    height: 17;
+}
+.text-center5{
+    border-right: 1px solid black;
+    width: 138px;
+    height: 17;
+}
+.text-center6{
+    border-right: 1px solid black;
+    width: 104px;
+    height: 17;
+}
+.text-center7{
+    border-right: 1px solid black;
+    width: 115px;
+    height: 17;
+}
+.text-center8{
+    border-right: 1px solid black;
+    width: 135px;
+    height: 17;
+}
+.text-center9{
+    border-right: 1px solid black;
+    width: 95px;
+    height: 17px;
+}
+.text-center10{
+    border-right: 1px solid black;
+    width: 75px;
+    height: 17px;
+}
+.text-center11{
+    border-right: 1px solid black;
+    width: 60px;
+    height: 10px;
+}
+p{
+    margin-right: 9px;
+    text-align: center;
+}
+
